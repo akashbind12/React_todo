@@ -1,0 +1,11 @@
+.com_todo{
+    width: 80%;
+    height: 30px;
+    background-color: #27AE60 ;
+    color: white;
+    margin-top: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    border-radius: 10px;
+    margin: 20px auto;
+}
